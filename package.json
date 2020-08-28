@@ -1,0 +1,21 @@
+{
+  "name": "hello-vue",
+  "version": "1.0.0",
+  "description": "First vue app",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [
+    "hello",
+    "vue"
+  ],
+  "author": "Stephen Ransom",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
